@@ -71,4 +71,18 @@ const mockTailLists = [
   },
 ];
 
-export { navLinks, cocktailLists, mockTailLists };
+const featureLists = [
+  "Mezcla Perfecta de Sabores",
+  "Adornado a la perfección",
+  "Frio intenso en todo momento",
+  "Agitado y mezclado con maestría",
+];
+
+const goodLists = [
+  "Ingredientes de alta calidad",
+  "Tecnicas Unicas de Preparacion",
+  "Arte de la Cocteleria en Acción",
+  "Sabores Frescamente Combinados",
+];
+
+export { navLinks, cocktailLists, mockTailLists, featureLists, goodLists };
