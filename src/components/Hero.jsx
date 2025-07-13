@@ -88,23 +88,21 @@ function Hero() {
         />
 
         <div className="body">
-          {/* <img src="/images/arrow.png" alt="arrow" className="arrow" /> */}
+          <img src="/images/arrow.png" alt="arrow" className="arrow" />
 
           <div className="content">
             <div className="space-y-5 hidden md:block">
               <p>Cool. Crisp. Classic.</p>
               <p className="subtitle">
-                Sip the Spirit <br /> of Summer
+                Disfruta del Espíritu <br /> del Verano
               </p>
             </div>
 
             <div className="view-cocktails">
               <p className="subtitle">
-                Every cocktail on our menu is a blend of premium ingredients,
-                creative flair, and timeless recipes — designed to delight your
-                senses.
+                Cada cóctel de nuestra carta es una mezcla de ingredientes de primera calidad, un toque creativo y recetas diseñadas para deleitar tus sentidos.
               </p>
-              <a href="#cocktails">View cocktails</a>
+              <a href="#cocktails">Ver Cocktails</a>
             </div>
           </div>
         </div>
